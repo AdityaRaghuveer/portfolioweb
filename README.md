@@ -11,7 +11,7 @@ This website showcases:
 
 This is basically an **online resume** of mine.
 
-When you open this site, you’ll find a complete overview about me — including my background, projects, skills, and contact information.
+When you open this site, you’ll find a complete overview about me — including my background, projects, skills, and contact information. I will be recieving responses through **formspree** instead of using PHP, firebase or Mongodb for backend . whenever a cllient tries to reach me I will get a notification to registered mail used in the formspree (formid which i have used in code). 
 
 ---
 
